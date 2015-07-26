@@ -2,7 +2,7 @@ See Original assignment below!
 
 ### About the files
 
-The codes for cacheSolve() and makeCacheMatrix can of course be found in cachemartix.R. the cachemean.R script was used as a template and to play around with, but is in no way part of this assignment. In example.md you can find some example input to use for this script. 
+The codes for cacheSolve() and makeCacheMatrix can of course be found in cachemartix.R. the cachemean.R script was used as a template and to play around with, but is in no way part of this assignment. 
 
 Thanks for spending your time on grading my submission!
 ___
